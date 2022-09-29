@@ -74,13 +74,13 @@ end_fill()
 penup()
 goto(-200,-30)
 pendown()
-write('Pallavi',font=('times new roman',45,'italic'))
+write('Name',font=('times new roman',45,'italic'))
 
 #second name
 penup()
 goto(200,270)
 pendown()
-write('Vasu',font=('times new roman',45,'italic'))
+write('Crush',font=('times new roman',45,'italic'))
 
 #For left I
 penup()
